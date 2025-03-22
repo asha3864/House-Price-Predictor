@@ -14,7 +14,7 @@ A machine learning project that predicts real estate prices based on various hou
 ### 📂 Installation & Setup
 bash
 # Clone the repository
-git clone https://github.com/asha3864/dragon-real-estate.git
+git clone https://github.com/asha3864/House-Price-Predictor
 
 # Navigate to the project directory
 cd dragon-real-estate
